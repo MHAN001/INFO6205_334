@@ -3,10 +3,11 @@
 
 ##  Steps of the genetic Algorithm:
 ####    Initialization
-####    Evaluate
-####    Selection
-####    Crossover
-####    Mutation
+####    Evolution
+###       Selection
+###       Crossover
+###       Mutation
+###       Evaluation
 
 
 ##  Difference from other normal genetic algorthms:
