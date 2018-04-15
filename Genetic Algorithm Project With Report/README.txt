@@ -1,1 +1,0 @@
-This project is aim to know how Chromosome changed and after adjust fitness, what is every Generation's best chromosome and current chromosome. By check function value we can find that the difference between best and current.
