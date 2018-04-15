@@ -19,6 +19,6 @@
 ![alt text](./UML.jpg "UML")
 ==================
 
-#  To see all details please check:  RED APPLE (&#x1F34E;) GAFinalreport.docx
+#  To see all details please check:    GAFinalreport.docx(&#x1F34E;)
 
 
