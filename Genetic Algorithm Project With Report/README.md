@@ -15,7 +15,7 @@
 
 
 ## UML diagram:
-![alt text](https://github.com/MHAN001/Algorithm-Data-Structure/blob/master/Genetic%20Algorithm%20Project%20With%20Report/UML.jpg"Logo Title Text 1")
+![alt text](./UML.jpg "UML")
 ==================
 
 
