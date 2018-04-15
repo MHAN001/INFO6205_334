@@ -14,7 +14,8 @@
 ####   Use BigDecimal rather than double to maintain and scale the loss of the accurate
 
 
-To be continue
+## UML diagram:
+![alt text](https://github.com/MHAN001/Algorithm-Data-Structure/blob/master/Genetic%20Algorithm%20Project%20With%20Report/UML.jpg"Logo Title Text 1")
 ==================
 
 
